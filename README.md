@@ -11,3 +11,7 @@ TASK 1B - Naïve Bayesian Classifier for Text Classification
 
 PHASE 2:
 TASK2 - Rapido Bike Ride Request Forecast using ML( to predict ride-request for a particular hour using machine learning.)
+
+
+PHASE-3:
+Health disorder Predictor Using Machine Learning(aims to implement a robust machine-learning model that can efficiently predict the disease of a human, based on the symptoms that he/she possesses.)
