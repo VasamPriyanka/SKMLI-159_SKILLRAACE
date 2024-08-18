@@ -15,3 +15,7 @@ TASK2 - Rapido Bike Ride Request Forecast using ML( to predict ride-request for 
 
 PHASE-3:
 Health disorder Predictor Using Machine Learning(aims to implement a robust machine-learning model that can efficiently predict the disease of a human, based on the symptoms that he/she possesses.)
+
+PHASE-4:
+WINE QUALITY PREDICTOR USING M L
+Here we will predict the quality of wine on the basis of given features. We use the winequality dataset available on Internet for free. This dataset has the fundamental featureswhich are responsible for affecting the quality of the wine. By the use of several Machine learning models, we will predict the quality of the wine.
